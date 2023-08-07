@@ -12,7 +12,7 @@ Those are just a few to say the least. Throughout this proccess I learned to wor
 
 ## Table of Contents
 
-- [Contirbute](#contribute)
+- [Contribute](#contribute)
 - [Appearance](#appearance)
 - [Changes](#changes)
 - [Features](#features)
@@ -36,6 +36,8 @@ Once you scroll down you should see the following:
 And last but not least the footer:
     ![alt text](assets/images/horiseon-2.png)
 
+To view the deployed webpage click the following link: [Deployed Webpage](https://lmansilla92.github.io/urban-octo-telegram-accessbility/)
+
 ## Changes
 
 The following changes were made to make the website more accessible:
@@ -58,4 +60,5 @@ Although it's a simple page, the navigational links have a helpful feature. By u
 Link to the starter code repository: [Urban Octo Telegram](https://github.com/coding-boot-camp/urban-octo-telegram)
 
 ## License
+
 Link to [The MIT License (MIT)](https://github.com/lmansilla92/urban-octo-telegram-accessbility/blob/main/LICENSE)
